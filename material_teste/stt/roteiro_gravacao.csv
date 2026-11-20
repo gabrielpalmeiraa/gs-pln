@@ -13,9 +13,9 @@ stt_11.wav,F2,feminino,18-29,nao,,"Minha casa está sem luz, a Prefeitura resolv
 stt_12.wav,F2,feminino,18-29,nao,,Como eu falo com o 156 pelo WhatsApp?
 stt_13.wav,F2,feminino,18-29,sim,música,E onde eu encontro o Ecoponto mais perto de casa?
 stt_14.wav,F2,feminino,18-29,sim,conversa ao fundo,Posso jogar o entulho da reforma no lixo comum?
-stt_15.wav,F3,preencher,60+,nao,,"Na minha rua nunca teve poste, como eu peço um novo?"
-stt_16.wav,F3,preencher,60+,nao,,"A rua está alagada, posso atravessar de carro?"
-stt_17.wav,F3,preencher,60+,nao,,E como eu sei o dia que o Cata-Bagulho passa na minha rua?
-stt_18.wav,F3,preencher,60+,nao,,"Apareceu rachadura na parede e a terra está cedendo, o que eu faço?"
-stt_19.wav,F3,preencher,60+,nao,,"Estou fora da cidade de São Paulo, como eu ligo para o 156?"
-stt_20.wav,F3,preencher,60+,sim,ventilador/eletrodoméstico,Dá pra cadastrar a casa da minha mãe também no alerta da Defesa Civil?
+stt_15.wav,F3,nao_informado,60+,nao,,"Na minha rua nunca teve poste, como eu peço um novo?"
+stt_16.wav,F3,nao_informado,60+,nao,,"A rua está alagada, posso atravessar de carro?"
+stt_17.wav,F3,nao_informado,60+,nao,,E como eu sei o dia que o Cata-Bagulho passa na minha rua?
+stt_18.wav,F3,nao_informado,60+,nao,,"Apareceu rachadura na parede e a terra está cedendo, o que eu faço?"
+stt_19.wav,F3,nao_informado,60+,nao,,"Estou fora da cidade de São Paulo, como eu ligo para o 156?"
+stt_20.wav,F3,nao_informado,60+,sim,ventilador/eletrodoméstico,Dá pra cadastrar a casa da minha mãe também no alerta da Defesa Civil?

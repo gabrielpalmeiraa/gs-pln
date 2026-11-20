@@ -19,7 +19,7 @@
 | base | falante | F3 | 6 | 39.0% |
 | base | genero | feminino | 7 | 33.8% |
 | base | genero | masculino | 7 | 27.8% |
-| base | genero | preencher | 6 | 39.0% |
+| base | genero | nao_informado | 6 | 39.0% |
 | base | ruido | nao | 15 | 27.4% |
 | base | ruido | sim | 5 | 52.8% |
 | small | faixa_etaria | 18-29 | 14 | 18.6% |
@@ -29,7 +29,7 @@
 | small | falante | F3 | 6 | 13.0% |
 | small | genero | feminino | 7 | 20.6% |
 | small | genero | masculino | 7 | 16.7% |
-| small | genero | preencher | 6 | 13.0% |
+| small | genero | nao_informado | 6 | 13.0% |
 | small | ruido | nao | 15 | 11.6% |
 | small | ruido | sim | 5 | 32.1% |
 
