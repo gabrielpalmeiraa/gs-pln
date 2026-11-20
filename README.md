@@ -11,7 +11,7 @@ Disciplina: Processamento de Linguagem Natural, Chatbots & Virtual Agents
 O Zelo é um assistente de voz em português para quem tem dificuldade com aplicativos e sites. O cidadão fala, o Zelo entende o pedido com um LLM apoiado em informações oficiais da Prefeitura de São Paulo e responde falando. Ele explica como pedir tapa-buraco, conserto de iluminação, poda de árvore, descarte de entulho, Cata-Bagulho, limpeza de bueiro, alertas de chuva e remoção de veículo abandonado.
 
 * **Persona:** Dona Cida, 68 anos, moradora de Itaquera, enxerga pouco e não usa aplicativos. O poste da rua dela está apagado e ela não sabe a quem pedir o conserto.
-* **ODS:** 11 (Cidades e comunidades sustentáveis, metas 11.5 e 11.6) e 10 (Redução das desigualdades, meta 10.2).
+
 
 * **Vídeo da demonstração:** https://youtu.be/28jB8UT0IAw
 * **Relatório:** [`docs/relatorio_zelo.pdf`](docs/relatorio_zelo.pdf)
